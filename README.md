@@ -1,7 +1,7 @@
 # MySQL - SQLAlchemy - Pandas
 These notebooks contain MySQL and Pandas code equivalents. Pandas uses the SQLAlchemy module to connect to MySQL databases and perform database operations.
 
-These MySQL codes are mainly taken from [mysqltutorial.org](https://www.mysqltutorial.org/mysql-basics/) with minor modifications for easier comparison with Panda's codes.
+These MySQL codes are mainly taken from [mysqltutorial.org](https://www.mysqltutorial.org/mysql-basics/) with minor modifications for easier comparison with Pandas codes.
 
 I also provided some tips for [configuring MySQL users and passwords](mysql_user_password_tips.md).
 
